@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(255, 255, 0, 0.199);
+    text-align: center;
+    
+}
+h1
+{
+    color: rgba(94, 255, 0, 0.788);
+    text-justify: auto;
+    font-style: oblique;
+
+}
+li
+{
+    color: rgb(233, 8, 214)
+    ;
+}
+ol{
+    list-style: upper-alpha;
+    color: #ab19c9;
+    list-style-position: inside;
+}
+h3{
+    color:rgba(228 ,63,162, 0.6);
+}
+#textblock{
+    border: 5px solid rgb(226, 149, 34);
+    height: 100px;
+    width: 500px;
+    background: antiquewhite;
+}
